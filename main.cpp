@@ -4,8 +4,8 @@
 #include <conio.h>
 #include <windows.h>
 
-#include "Game.h"
-#include "Utils.h"
+#include <game.h>
+#include <utils.h>
 using namespace std;
 
 void intro()
